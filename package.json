@@ -1,0 +1,19 @@
+{
+  "name": "do-healthcheck",
+  "version": "0.0.1",
+  "private": false,
+  "main": "dist/index.js",
+  "scripts": {},
+  "dependencies": {
+    "babel": "^5.8.23",
+    "del": "~1.1.1",
+    "immutable": "^3.7.5",
+    "request": "^2.67.0",
+    "superagent": "^1.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-plumber": "~0.6.5",
+    "gulp-babel": "^5.2.1"
+  }
+}
